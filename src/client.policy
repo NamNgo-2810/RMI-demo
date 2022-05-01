@@ -1,0 +1,3 @@
+grant codeBase "D:/JavaProjects/DBS2/src/" {
+    permission java.security.AllPermission;
+};

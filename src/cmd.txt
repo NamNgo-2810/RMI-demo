@@ -1,0 +1,1 @@
+java -cp D:\JavaProjects\DBS2\src;D:\JavaProjects\DBS2\src\compute.jar -Djava.rmi.server.codebase=file:/D:/JavaProjects/DBS2/src/compute.jar -Djava.rmi.server.hostname=localhost -Djava.security.policy=server.policy engine.ComputeEngine
